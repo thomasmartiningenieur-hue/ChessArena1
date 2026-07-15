@@ -1,6 +1,1 @@
-
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
-
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+ChessArena est une plateforme web d’échecs permettant aux utilisateurs de jouer des parties en ligne en temps réel. Le projet repose sur une architecture Full-Stack avec un backend Java Spring Boot et un frontend Angular. Il intègre des API REST pour la gestion des données, WebSocket pour les échanges temps réel, PostgreSQL pour la persistance des données et Docker pour la conteneurisation de l’application
